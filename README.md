@@ -47,4 +47,6 @@ Currently @ Orlando Brick Company
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" height="40" width="40"/>&nbsp;
 </div>
 
-
+---
+### 📧Want to get in contact?
+- Email me @ d0rit03@proton.me
