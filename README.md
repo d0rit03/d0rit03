@@ -12,21 +12,20 @@
 
 ### 🔭About Me:
 Name: Ana Valdivia
-  
-Location: Orlando, Florida
 
-Education:
-- "Current student at UCF majoring in computer science",
--  "Associate of Arts from Valencia College, Dec 2024",
--  "Notable courses: Statisital Methods, Computer Hardware, Database Management Systems, Intro to programming C++",
-
+📍Location: Orlando, Florida
 
 Currently @ Orlando Brick Company
 
- Interests in:
-  - "Web Development",
-  - "Game Developement",
-  - "Machine Learning",
+🧑‍🏫Education:
+- Current student at UCF majoring in computer science
+- Associate of Arts from Valencia College, Dec 2024
+- Notable courses: Statisital Methods, Computer Hardware, Database Management Systems, Intro to programming C++
+
+🗣️Interests in:
+  - " Web Development
+  - " Game Developement
+  - " Machine Learning
 
 ---
 
