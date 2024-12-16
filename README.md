@@ -2,7 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnRraWxxN20zcGd3Zng2Y3FqZW1qeXFodjdxbGVpOGwwOHI5enkxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bSgKBZKCxh8Iqlwxne/giphy.gif" width="200"/>
 </div>
 <div id="badges">
-  <a href="www.linkedin.com/in/ana-valdivia-7952b0312">
+  <a href="https://www.linkedin.com/in/ana-valdivia-7952b0312">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
 </div>
