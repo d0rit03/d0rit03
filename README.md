@@ -23,9 +23,9 @@ Currently @ Orlando Brick Company
 - Notable courses: Statisital Methods, Computer Hardware, Database Management Systems, Intro to programming C++
 
 🗣️Interests in:
-  - " Web Development
-  - " Game Developement
-  - " Machine Learning
+  - Web Development
+  - Game Developement
+  - Machine Learning
 
 ---
 
