@@ -18,13 +18,13 @@ Name: Ana Valdivia
 Currently @ Orlando Brick Company
 
 🧑‍🏫Education:
-- Current student at UCF majoring in computer science
+- Current student at UCF majoring in computer engineering
 - Associate of Arts from Valencia College, Dec 2024
 - Notable courses: Statisital Methods, Computer Hardware, Database Management Systems, Intro to programming C++
 
 🗣️Interests in:
-  - Web Development
-  - Game Developement
+  - Space Imaging
+  - Video 
   - Machine Learning
 
 ---
